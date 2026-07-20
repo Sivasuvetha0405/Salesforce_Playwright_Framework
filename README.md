@@ -1,8 +1,8 @@
-# Salesforce Automation Framework
+# Salesforce Playwright Automation Framework
 
 ## Overview
 
-This project is a Playwright + TypeScript Automation Framework designed for scalable UI and API test automation.
+This project is a Salesforce Test Automation Framework developed using Playwright and TypeScript. The framework follows the Page Object Model (POM) design pattern and supports UI Automation, API Testing, Cross-Browser Testing, and CI/CD integration.
 
 ## Features
 
